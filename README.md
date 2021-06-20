@@ -10,6 +10,7 @@ Full documentation inside.
 3) Maxiaml stress as a function of wind speed
 4) Adding non-linear springs to enforce damping
 5) Show maximal stress improvement
+
 ![SC2 Video](Images/System1.jpg)
 
 ## Second Part:
@@ -19,6 +20,7 @@ Full documentation inside.
 4) Maximal stress as a function of wind speed
 5) Adding a mass damper to satisfy stress constraints
 6) GUI for mass damper design included
+
 ![SC2 Video](Images/System2.jpg)
 
 ## Third Part:
@@ -27,4 +29,5 @@ Full documentation inside.
 2) Constraints analysis for chosen number of polynomials
 3) Modal analysis
 4) Maximal stress as a function of wind speed
+
 ![SC2 Video](Images/System3.jpg)
