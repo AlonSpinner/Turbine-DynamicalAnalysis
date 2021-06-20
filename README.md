@@ -1,7 +1,7 @@
 # Turbine-DynamicalAnalysis
 Three part project for the dynamical analysis of a wind turbine with three blades
-that is to withstand different wind speeds without braking
-Each part complicats the model furthering our understanding but making sure the results are sensible
+that is to withstand different wind speeds without braking.
+Each part complicats the model furthering our understanding but making sure the results are sensible.
 Full documentation inside.
 
 ## First Part:
